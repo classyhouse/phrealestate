@@ -5,6 +5,6 @@
     <title>Classy House Ph</title>
   </head>
   <body>
-    <p>Hello world!</P>
+    <p>Hello world!</p>
   </body>
 </html>
